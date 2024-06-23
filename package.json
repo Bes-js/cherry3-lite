@@ -52,6 +52,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "cherry3": "^5.1.1"
+    "cherry3": "^5.1.1",
+    "sqlite3": "^5.1.7"
   }
 }
