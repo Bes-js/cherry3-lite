@@ -52,6 +52,6 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "cherry3": "^3.0.5"
+    "cherry3": "^5.1.1"
   }
 }
